@@ -1,6 +1,6 @@
 # Calorie Tracker
 
-A simple Python program that helps you log meals and track your daily calorie intake. This interactive tool allows you to monitor your eating habits and stay within your daily calorie limits.
+A simple Python program that helps you log meals and track your daily calorie intake. This interactive tool allows you to monitor your eating habits and stay within your daily calorie limit.
 
 ## Features
 
