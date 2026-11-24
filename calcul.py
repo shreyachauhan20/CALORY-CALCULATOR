@@ -2,7 +2,7 @@ import datetime
 print("Welcome to the Calorie Tracker!")
 print("This program helps you log meals and track calories.\n")
 
-# ---------- Task 2: Input & Data Collection ----------
+# ---------- Task 2: Input & Data Collection ---------
 meals = []
 calories = []
 
